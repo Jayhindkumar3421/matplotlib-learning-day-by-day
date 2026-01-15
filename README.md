@@ -18,3 +18,8 @@ This repository contains my Day 1 practice of Matplotlib using python.
 ## About this repository
 I am learning matplotlib step by step from basics to intermediate level. I will upload my daily practice and graphs to this repository.
 This is my first day of data visualization learning.
+
+## Day 1 Output
+![Day 1 Line Graph] (day01_graph.png)
+
+
